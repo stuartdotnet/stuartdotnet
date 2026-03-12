@@ -1,13 +1,13 @@
 # Hi! I'm Stuart 👋
 
-I'm a .NET Developer & Cloud Architect currently focused on the intersection of **agentic AI systems** and **enterprise .NET development** — building production-grade multi-agent workflows with Azure AI Foundry, MCP, and the A2A protocol.
+I'm a .NET Developer & Cloud Architect currently focussed on the intersection of **agentic AI systems** and **enterprise .NET development** — building production-grade multi-agent workflows with Azure AI Foundry, MCP, and the A2A protocol.
 
 ## 🤖 AI Blog
 
 I write about practical AI engineering, Azure architecture, and what it actually looks like to build production-grade agentic systems as a working .NET developer.
 
 📖 **[The Grounded Developer](https://thegroundeddeveloper.substack.com)** — Substack publication covering:
-- Azure AI Foundry & agentic workflows
+- Microsoft Agent Framework, Azure AI Foundry & agentic workflows
 - MCP and A2A protocol implementation in .NET
 - AI-103 / AB-100 certification guidance
 - Real-world patterns for senior engineers adopting AI tooling
