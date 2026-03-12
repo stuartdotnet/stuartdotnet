@@ -1,14 +1,11 @@
 # Hi! I'm Stuart 👋
----
+
 I'm a .NET Developer & Cloud Architect currently focused on the intersection of **agentic AI systems** and **enterprise .NET development** — building production-grade multi-agent workflows with Azure AI Foundry, MCP, and the A2A protocol.
 
 ## Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/stuartdotnet)
 [![AI Blog](https://img.shields.io/badge/Substack-The%20Grounded%20Developer-FF6719?style=flat&logo=substack&logoColor=white)](https://thegroundeddeveloper.substack.com)
 [![Coding Blog](https://img.shields.io/badge/Substack-Technical%20Excellence-FF6719?style=flat&logo=substack&logoColor=white)](https://technicalexcellence.substack.com)
-[![Location](https://img.shields.io/badge/Melbourne%2C%20Australia-🇦🇺-lightgrey?style=flat)](#)
-
-===
 
 ## ✍️ AI Blog
 
@@ -20,11 +17,9 @@ I write about practical AI engineering, Azure architecture, and what it actually
 - AI-102 / AB-100 certification guidance
 - Real-world patterns for senior engineers adopting AI tooling
 
-===
-
 ## 🧭 Background
 
 - Microsoft Certified Professional since 2005
 - Running Linux Mint as a daily driver
-- Karate (Goju Ryu) 3rd Kyu
+- 3rd Kyu in Goju Ryu Karate
 - Based in Melbourne 🇦🇺
