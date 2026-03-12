@@ -1,6 +1,6 @@
 # Hi! I'm Stuart 👋
 
-I'm a .NET Developer & Cloud Architect currently focussed on the intersection of **agentic AI systems** and **enterprise .NET development** — building production-grade multi-agent workflows with Azure AI Foundry, MCP, and the A2A protocol.
+I'm a .NET Developer & Cloud Architect currently focussed on the intersection of **agentic AI systems** and **enterprise .NET development** — building production-grade multi-agent workflows with the Microsoft Agent Framework and Azure AI Foundry.
 
 ## 🤖 AI Blog
 
