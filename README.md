@@ -6,7 +6,7 @@ I'm a .NET Developer & Cloud Architect currently focused on the intersection of 
 
 I write about practical AI engineering, Azure architecture, and what it actually looks like to build production-grade agentic systems as a working .NET developer.
 
-📖 **[The Grounded Developer](https://thegroundeddeveloper.substack.com)** — Substack publication covering:
+📖 **[Learn to Build AI](https://learntobuildai.substack.com)** — Substack publication covering:
 - Microsoft Agent Framework, Microsoft Foundry & agentic workflows
 - MCP and A2A protocol implementation in .NET
 - AI-103 / AB-100 certification guidance
