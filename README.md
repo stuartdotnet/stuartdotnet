@@ -1,6 +1,6 @@
 # Hi! I'm Stuart 👋
 
-I'm a .NET Developer & Cloud Architect currently focused on the intersection of **agentic AI systems** and **enterprise .NET development** — building production-grade multi-agent workflows with the Microsoft Agent Framework and Microsoft Foundry.
+I'm a .NET Developer & Cloud Architect currently focused on the intersection of **agentic AI systems** and **enterprise .NET development**: building production-grade multi-agent workflows with the Microsoft Agent Framework and Microsoft Foundry.
 
 ## 🤖 AI Blog
 
@@ -22,5 +22,4 @@ I write about practical AI engineering, Azure architecture, and what it actually
 ## 🤝 Connect with me
 [![Website](https://img.shields.io/badge/stuartdobson.net-222222?style=flat&logo=githubpages&logoColor=white)](https://stuartdobson.net)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/stuartdotnet)
-[![AI Blog](https://img.shields.io/badge/Substack-The%20Grounded%20Developer-FF6719?style=flat&logo=substack&logoColor=white)](https://thegroundeddeveloper.substack.com)
-[![Coding Blog](https://img.shields.io/badge/Substack-Technical%20Excellence-FF6719?style=flat&logo=substack&logoColor=white)](https://technicalexcellence.substack.com)
+[![AI Blog](https://img.shields.io/badge/Substack-Learn%20to%20Build%20AI-FF6719?style=flat&logo=substack&logoColor=white)](https://learntobuildai.substack.com)
