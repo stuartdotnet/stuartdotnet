@@ -1,6 +1,6 @@
 # Stuart Dobson
 
-I'm a developer, writer and teacher in Melbourne, Australia, with 20+ years in .NET and Azure. I help .NET developers learn to build AI applications: agents, MCP, A2A and Microsoft Foundry in C#.
+I'm a developer and writer in Melbourne, Australia, with 20+ years in .NET and Azure. I help .NET developers learn to build AI applications: agents, MCP, A2A and Microsoft Foundry in C#.
 
 I write **[Learn to Build AI](https://learntobuildai.substack.com)**, a free publication with working code you can run.
 
