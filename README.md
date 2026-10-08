@@ -15,7 +15,6 @@ I write about practical AI engineering, Azure architecture, and what it actually
 ## 🧭 Background
 
 - Microsoft Certified Professional since 2005
-- Running Linux Mint as a daily driver
 - 2nd Kyu in Goju Ryu Karate
 - Based in Melbourne 🇦🇺
 
